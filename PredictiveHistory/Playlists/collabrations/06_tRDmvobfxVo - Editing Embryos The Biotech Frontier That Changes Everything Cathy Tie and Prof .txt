@@ -1,0 +1,2381 @@
+URL: https://www.youtube.com/watch?v=tRDmvobfxVo
+
+Title: Editing Embryos: The Biotech Frontier That Changes Everything | Cathy Tie and Prof. Jiang | Ep. 47
+
+Description: Cathy Tie (founder, Origin Genomics) and Prof. Jiang Xueqin (Predictive History) join me for a wide-open conversation on germline gene editing, the science, the ethics, and the geopolitics.
+
+Cathy walks through why heritable gene correction at the embryo stage may solve delivery problems that plague adult gene therapies, what Origin Genomics is doing under US IRB oversight, and how newer tools like base and prime editors change the safety conversation.
+
+Prof. Jiang zooms out: US 0-to-1 vs China 1-to-100, techno-utopianism, aging demographics, and why, from a game-theory lens, biotech may reshape power more than nuclear weapons or AI.
+
+Controversial, fast-moving science. This episode is for education and discussion, not medical or legal advice.
+
+Subtitle:
+'''
+[music]
+Keep talking.
+>> Miss Kathy Tai, thank you so much for
+joining me. And Professor Jang, what an
+absolute honor to have you here.
+>> Thanks, Tim.
+>> This is going to be a unique
+conversation because uh obviously um
+people know you very well for your
+geopolitical analysis and your view of
+history and predicting the future based
+on history. Uh, but I haven't heard you
+speak much on the role of biotech.
+>> Well, that's because I don't know
+anything.
+>> Well, you get you're gonna get an
+education today from an expert.
+>> I'm here to learn. Yes.
+>> Wonderful. And so, um, you know, one of
+the most controversial biotech frontiers
+right now is germline editing. And this
+is something that you're doing and going
+to be doing with your company, Origin
+Genomics. And it's something that we
+should talk about because the future has
+uh the future is interesting and it's
+moving quickly and we should discuss it.
+Uh but before we start uh let's get a
+little bit of um insight into your
+origin story, no pun intended. So you
+were um at a very young age you started
+your first biotech company bromics here
+in Toronto. That's something else I
+should mention is that we are three
+Torononians here. Welcome home. Welcome
+home. Um, tell us a little bit about
+you, where you started because you were
+very young. You're you're definitely an
+outlier in terms of the whole biotech
+burau industry. First of all, not a bro,
+but started very, very young. How did
+you how did you get involved?
+>> Well, first of all, thanks for having
+me. Super excited to be here. It's cool
+that we're all from Toronto and we're
+back here in our hometown. Uh, well, I
+started in a really unconventional way.
+Um, I grew up in the GTA. I grew up in
+Missaga. I've always been interested in
+science and technology. When I was in
+high school, I would take the subway to
+go do research at the University of
+Toronto campus with professors and grad
+students. And by the time I was 16, I
+published my first paper in a
+peer-reviewed journal.
+>> Yes.
+>> On the characterization of RNF20, RF 40,
+very specific proteins in antibbody
+design. And then when I was 18, I
+started studying bionformatics at
+University of Toronto and kept doing
+research and kept publishing. But I felt
+like academia was very limiting in a lot
+of ways because I look around me and all
+these grad students are depressed,
+overworked, being paid like 30, 40k a
+year and you know they're they're
+supposed to be the most educated um
+smart people in biotech where like in my
+field in genetics and
+>> I thought that was really depressing and
+I also wanted my work to mean so much
+more than just publishing papers. Um so
+that's when I found out about getting
+venture capital funding starting
+companies as a different route than just
+academia doing uh you know sponsor like
+doing re grant funded research doing
+grass student work and then being
+posttock and then fighting for the
+limited number of um professorship
+positions in Canada or in the US it was
+all getting uh more and more competitive
+to become a professor this was 2014 so
+that's when I discovered that there's
+another world where you do research but
+in a private industry setting and I was
+also interested in programming. So then
+I basically got exposed to hackathons,
+startup weekends, venture capitalists
+around the same time as well. I won
+actually the the hackathon hack the
+north. It was the biggest hackathon.
+It's the biggest hackathon in Canada. It
+was like the first year it happened. I
+won it and won these like four iPads. I
+was like well you can build
+>> four iPads at that time. Amazing.
+>> Yeah. So that's how kind of how I got
+started. and I found out about this
+other world that where you can do
+research without having to um do gradu
+like do 10 years of academia work for
+like no pay.
+>> Yes. You kind of uh you broke the code.
+You broke through the matrix. You found
+a different way because you're you're
+you're right. There's a huge amount of
+competition for academic positions,
+>> very underpaid uh in terms of the
+students, the grad students. And so you
+found a way around that which is very
+interesting. Let's talk about renomics
+for a second. Um because it it works and
+feeds into what you're doing now very
+well. And what you were studying there
+were were uh variants of unknown
+uh
+>> unknown significance
+>> significance pardon me. Um and this is a
+very interesting concept because uh as
+we do as as genetic analysis and
+sequencing be became and is becoming
+more of a day-to-day thing we start
+seeing these mutations that pop up that
+have unknown significance and there was
+nobody at the time really uh
+commercializing that or even looking
+into it. Um and that's what you focused
+on. So tell us a little bit about that
+concept of the unknown significance, the
+variance.
+>> So the genetic code is really
+interesting because it's almost like I
+mean it is the code of life.
+>> Yes.
+>> It programs all of the proteins that
+make us who we are. Every function in
+our cell is an expression of what was
+already in our genetics especially from
+the embryo stage. So when I was building
+my first company and doing research um
+at 18, I was it was like 2014 2015,
+direct to consumer genetic testing just
+became really big. So you would see 23
+and me selling these threat to consumer
+tests where you can find out your
+ancestry, you know, maybe like do you
+taste cilantro as soap? Like fun things
+like that. And then and also disease
+markers because you can also predict
+disease with your genetic code. So you
+know a lot of um conditions hereditary
+cancers or like broccoli breast cancer
+or um cystic fibrosis t-axs a lot of the
+these diseases can be predictable with
+your uh with your genetics. So as humans
+we have um 3.3 billion uh letters in our
+code. we have about 30,000 33,000 genes
+and each of them program something
+different and even the code within like
+uh within the intron so the non-coding
+regions they can also mean something
+too. So there's a lot of mystery and
+really um meaning there's a lot of
+meaning to this code and
+>> um at the time it was the era of reading
+this code. So sequencing the genome um
+doing genome sequencing direct to
+consumer test it's all about reading the
+genetic code. What can you uh what can
+you learn from someone's genetic code?
+Can you predict a disease? That was the
+whole genetic testing industry. Can you
+um find your longlost um cousins or like
+you know a lot of people found out they
+were related to these like half siblings
+because some town had um you know just
+you just find out you have a lot of lost
+family um and then some people find out
+where they're actually from.
+>> So that was that era of reading DNA. And
+then in about 2017 2018 we started
+writing DNA. So this is where it gets
+really interesting because you have all
+this code and you can reprogram it to do
+different things and maybe like uh
+instead of just predicting disease like
+hey you're going to get this cancer you
+can actually prevent it or uh or or cure
+it with gene editing. So in 2021 early
+2020s the first FDA approved gene
+therapy happened. It was cast for cickle
+cell. So is the idea of correcting the
+um uh the mutation for cickle cell after
+someone's born. So if you are you know a
+teenager or an adult you can actually um
+cure cickle cell with catastrophe. Now
+this was really expensive so it's not
+super accessible but it it did happen.
+Yes.
+>> Um so that began this era of gene
+therapy or or writing the genetic code.
+Um, I'll just stop there. But yeah,
+that's
+>> no and an important point to make is
+that that that therapy and other
+therapies that came after that were uh
+once you were already born and mature.
+>> So these are things that don't become
+heritable. Um, very little ethical
+implication unless you um, you know,
+project forward and we're going to get
+into the idea of eugenics and and and uh
+genetic engineering. So, at that point,
+uh, not much of an ethical problem, you
+could say, or or, uh, ethical
+implications. But now we're we're we're
+getting to the point where we have the
+ability to do germ line germ line
+editing, which is editing and fixing
+things in the germ line, which is prior
+to somebody being born. Um, and there
+are implications there, things that
+should be discussed. And
+what what's going to be interesting is
+to get Professor Young's um opinion on
+on how that's going to change the power
+balance globally. Uh it it it might seem
+odd to say uh at first, but germline
+editing is a huge frontier. Lots of
+possibilities, but it is in some way
+similar to the other um uh uh uh uh
+power disturbing uh forcing functions
+like nuclear energy, AI, um things that
+can be weaponized. And so as nations
+start to build the ability to do this,
+there are considerations that have to be
+um thought of and and we're going to get
+uh Professor Jang's opinion on that um
+because he's an expert on that. Um
+before we move into that, another
+interesting thing about yourself is
+you're a very accomplished piano player
+and uh and performer. Um uh which
+resonates with me because I grew up with
+a mother who was a uh central eastern
+European piano teacher having a piano
+school in the basement. So I can
+empathize with you what what it takes
+and and uh you recently had a very
+beautiful performance at Carnegie Hall
+for your 30th birthday party. uh little
+bit of controversy as to how it was
+covered by some of the media which was
+not not fair. Uh but te tell us about
+that and actually what what I want to
+ask about specifically is how does your
+musical education play into your
+scientific education? Is there a
+parallel? Because I find that there are
+a lot of scientists that um that are
+artists too and are very creative and
+music is very interesting because it's
+based on a code just like DNA is. And we
+can you can you can read and write it as
+well, just like DNA. How does that play
+into how you view science?
+>> Um, when I was a kid, I was kind of
+forced into piano, but I learned to
+really like it. I I when I was 5 years
+old, I discovered I have perfect pitch,
+which is when you hear a note and you
+can know exactly what note it is. I can
+hear like many notes at the same time
+and know exactly what notes they are.
+So, I did really like it for some time,
+but then when I kind of got pushed into
+doing it really aggressively, I didn't
+really like it as much. So, by the time
+I was uh put into this program where
+like in Royal Conservatory of Music, I
+passed the highest level of piano um
+like exams when I was 11 years old. So,
+it took
+>> This is a huge accomplishment. Most
+people don't do that until they're 18 or
+19.
+>> Yeah.
+>> If that if they ever make it that far.
+>> Yeah. It's a lot also a lot of work. So
+when you're like 9 or 10, you're I was
+locked in a room for like a whole day.
+My whole summer would just be me in a
+really small room with an upright piano
+just practicing Beethoven. Like that's
+literally all I did. And I had very few
+friends because of that. So it was it
+was um it was both something I loved and
+also kind of traumatized me in a way. So
+I actually stepped away from it for a
+really long time.
+>> But and same with science. I would say
+like when I was a teenager and then when
+I started my first company, I was really
+into science. I was into the genetics
+genomics industry, genetic testing
+industry. I try to try my best to fix
+it. I publish my like the papers I
+wrote. Like I was so into making the
+science work and bring it out to the
+world. And I think I I think at some
+point for both of those things I took a
+really long gap because um I think I was
+like really lost. I well one I wanted to
+step away from piano because I needed I
+just didn't want to play anymore. I
+didn't want to practice. And then um
+like I I think I achieved certain things
+and I just didn't know where else to go
+after that. Like finished level 10 with
+piano, did um uh did my first company,
+won a bunch of awards for that, teal
+fellowship, Forbes 30 like I kind of got
+everything I thought I wanted and then I
+was lost after that. And then when I was
+30 is when I realized I wanted to come
+back to these things that I really
+really enjoyed um before before
+>> you know everything else happened. So I
+um you know it was kind of symbolic for
+me to do so much piano practicing again
+and to perform at Carnegie Hall. Kind of
+similar to how I came back to science
+after spending years building like a
+tech company. Um, so yeah, so for my
+30th birthday this year, I um rented out
+I rented out the whole Carnegie Hall
+[laughter]
+um Zenko Hall um specifically and then
+the reception area and I dedicated the
+evening to two nonprofit organizations,
+one in science and one in music. Um the
+one in music was the Canadian
+Symphonetta, which is my piano teacher's
+husband's um chamber group in Canada. um
+their youth orchestra came to New York
+and um played with me and then uh the
+science organization being Cold Spring
+Harbor Laboratory where I serve on the
+association board. It's where James
+Watson um lived and he was the discover
+of co-discover DNA and eight other eight
+noble laurates lived there. So it's
+pretty cool.
+>> RIP James Watson.
+>> RIP to a real one. Yeah. Um
+>> so it was really symbolic and and uh
+yeah really was glad to do it and that
+was that was back in April. So um
+fantastic. I know we're going to play a
+little
+>> We're going to have a little treat later
+on. Yeah. And I can I can empathize with
+you on stepping away from music. And
+it's it's funny how when you're forced
+to do something as a kid, you hate it.
+And then you learn to appreciate it much
+later. I have the same appreciation. I
+was forced to play. Uh stepped away from
+it, but now I play every day. And I
+thank my mom all the time for for that
+for that skill. Um okay. So I want to
+get into some first principles about uh
+germline editing. But before we do, why
+don't we get Professor Jang's uh story.
+So you're also to T torononian.
+>> Yeah. No. Um so my background is nowhere
+near as impressive as Kathy's. Um it's
+hard to beat.
+>> Um I was born in the village in uh South
+China and this was right after the
+culture revolution. So I was born in
+1976
+>> and uh um and this is right before uh
+Chim Mao dies and this um signals the
+end of the cultural revolution. And it
+was a very traumatic event for the
+entire nation especially for my father.
+Uh he was in 1965 he was he was about to
+be the first member of our entire
+family, our entire lineage, you know,
+which goes back hundreds hundreds of
+years um to go to university. But
+because of the cult revolution, he
+actually went to a village to teach high
+school and after the cult revolution he
+took the opportunity to immigrate to uh
+Toronto um where we had relatives and
+he's been here uh ever since. Uh I was
+born in 76 and then in 1982
+um we came over um after he had been
+here for a couple years. I grew up in uh
+Toronto in a lowerass neighborhood. Um
+and because I was very ambitious and I
+was very lucky um I applied at the right
+time to Yale. I got in on a full
+scholarship. I study English literature
+there and um I was thinking of going to
+law school but um at the end of the day
+I didn't really like law. I really
+didn't like uh a very constrained
+um regimented way of seeing the world.
+>> Um and also lawyers are miserable
+people. I'm not sure if you've met met
+any lawyers but
+>> I know a few.
+>> Yeah, they are not happy [clears throat]
+people. So, I gave that up and I went to
+China to teach English, thinking that,
+you know, there's 1.3 billion people in
+China, but I'm the only one who speaks
+English and therefore I can monopolize
+the English teaching sector. Didn't
+really work out that way. Um, and but
+I've been working in Chinese education
+reform
+um with some successes, but mostly
+failure.
+And um couple years ago, I started to
+upload my lectures to my high school
+students on YouTube and uh here we are.
+Um it's it's been a very strange wild
+journey. Yeah. It's been very wild.
+Yeah.
+>> Yeah. And uh it this is a a fantastic
+opportunity to get uh and for the
+record, you live in China, right?
+>> I live in Beijing with my family.
+>> Right on. So, so this will be a
+fascinating uh look into how um North
+America approaches uh uh technology, how
+China approaches technology. Two
+different very different ways of
+approach and and as a result of that we
+have power imbalances or balances or
+shifting of power. Uh and I think
+biotech is going to be a very important
+aspect of that.
+>> Uh and famously um there have been um
+some some uh missteps that China has has
+done. They also have some fantastic um
+scientists that are pushing the science
+very very well and it's because they
+have a very different approach.
+>> That's right.
+>> Um and we're going to we're going to get
+your insights on that.
+>> Let's go back to germline editing which
+is what you're doing now with uh origin
+genomics.
+>> What is germline editing and why is it
+how is it different from what you uh
+described when we first began posterline
+sematic editing? How is it different?
+Why is it important?
+>> Okay, so there's two types of cells in a
+human body. There's somatic cells and
+germline cells. Somatic cells are
+anything that's not reproduction related
+and germline cells are anything
+reproduction related. So sperm, egg, uh
+embryos, right? So basically um the only
+dividing cells in the body are um or
+like when you when you look at where
+crisper works best is in dividing cells
+and the the
+>> the most rapidly dividing cells um have
+cancer is it's it's the embryo. Um,
+I don't want to get too technical, but
+but essentially the biggest bottleneck
+with gene editing, you know, after all
+the hype, all the crisper hype like
+2018, 2019, all all about, you know,
+writing DNA, the biggest problem is that
+there's a delivery vehicle challenge
+where when we are adults, we have
+trillions of cells in our body and the
+gene therapy has to go to the right
+cells. That's right. So as a result, you
+have to use something called AAVs or the
+that's the most common form of delivery,
+which is like a virus. It's a it's a
+virus that has to travel through your
+body and deliver the gene therapy to the
+right cells. If you look at all the
+failures um with gene therapies,
+especially recently and in clinical
+trials where these gene therapies have
+failed, it's mostly, if not all, due to
+the virus negatively impacting the
+patient, killing the patient because
+we're not used to that viral load.
+>> That's right. And and just let me add a
+little caveat. People hear viruses and
+they freak out. Um people need to know
+that viruses are a very common tool in
+the lab as a as a delivery mechanism of
+DNA. Why? Because that's what viruses
+do. They sit on cells. They inject DNA
+and we can hijack them to do that
+bidding for us. Just want to get that
+out of the way and people not thinking
+you're talking about some boweapon or
+something like that. It's a tool.
+>> Everyone uses this for gene therapies.
+um all the companies like Crisper
+Therapeutics, Mammoth Bios, everybody
+that is in the crisper space has to use
+this because that's the only way to
+deliver the gene therapy into the body.
+>> Um and I think just going back to your
+point on what's really interesting about
+the dynamic of biotech and and its
+distribution of you know how each
+country's um play in this arena,
+>> it's pretty interesting. I've been
+watching this for for uh over 10 years
+now. Um I think China obviously is very
+good at like the one to 100. The US is
+very good at the 0ero to one.
+>> And it's different though when you apply
+that to biotech than any other field
+like manufacturing or internet even. Um
+when I was in my early 20s, I observed
+that when you look at Google and you
+know Facebook, these types of uh
+platforms in the US, China can easily
+just shut it shut it out and create
+their local version in Chinese, right?
+But the difference between stuff like
+that and even manufacturing versus
+biotech is that biotech is global. Like
+if the gene therapy or the cancer
+treatment works here, then works
+everywhere, right? Like that's how
+biotech naturally works. So it's a
+little bit different of a dynamic than
+any other previous technologies where
+we've have established playbooks on how
+each country plays with the new frontier
+technology. So I noticed that a while
+back and
+>> and I think the only way for um a
+country like China to kind of compete on
+that 0ero to1 level is to kind of bring
+the ecosystem there. So that's why I
+think there was like the thousand
+talents plan, right? Like bringing
+people that make these technologies, you
+know, back to their home country and
+develop it there and create that
+ecosystem. Um and I think that like when
+you look at when you look at this in in
+concrete facts you're you're seeing that
+um in the US there are eight biotech
+companies are worth over $200 billion in
+market cap and there are zero in China.
+So like this ecosystem, this kind of
+like global um you know like dynamic for
+a this biotech area is very different
+than you can have like a $200 billion
+market cap company like a Google
+equivalent in China but biotech sphere
+is just fundamentally different and so
+this ties into the the kind of um the
+bioeththics component as well.
+>> Um bioeththics was something that I
+think was truly invented after World War
+II.
+>> Yeah. And the US, you know, if you look
+at crisper, a lot of biotech
+innovations, the US is definitely
+leading in a lot of that. Um, but at the
+same time, I think one of the biggest
+things hindering its growth and
+innovation is the bio like the the
+overcorrection of bioeththics post World
+War II.
+>> Um, and I think when you look at China,
+it's quite the opposite. I think it has
+a very like aggressive mentality to grow
+at all costs. And I think when you look
+at these two different dynamics,
+especially in a global technology like
+biotech, um the dynamics is going to be
+fundamentally different than what we've
+seen in previous eras with the different
+technologies like internet or um
+engineering um space.
+>> Yes.
+>> Defense etc. So that's kind of just my
+general take on that and and it
+definitely all plays into German line
+editing and how that's perceived and how
+different countries will contribute to
+this field as well. If anybody's
+interested in uh the effects of World
+War II and bioeththics, I would highly
+recommend the book War on the Week by
+Edwin Black. Have you ever read the
+book? And he's also written a book. I
+think it was a Puler Prizewinning book.
+Um and also IBM and the Holocaust, which
+is which is fascinating. And uh because
+of a lot of the atrocities that the uh
+Nazis performed, bioeththics became a
+thing. And we overcorrected. This is
+true. Um I'm sitting here hearing you
+talk about technology. um North America
+and China. One thing that kind of comes
+to mind now, I'd like to get your uh
+insight on this, I think, of autonomous
+vehicles, for example,
+>> in China, it's a very big thing. Correct
+me if I'm wrong. It's very common now,
+at least in the bigger cities, as far as
+I understand. Here, lots of bureaucracy,
+lots of red tape. So, I think that
+that's a nice parallel to to to show how
+the how these two countries or
+continents approach these frontier
+technologies. Why is it where does this
+come from in China culturally speaking?
+Um the 0 to1 and one to one to 100.
+>> Yeah.
+>> How has China over the last 100 years
+developed this approach with technology?
+Where does that come from? It's it's
+completely different from North America.
+>> Right. So um we need to go back to 1980s
+and understand the policy makers and
+their decision-m process like what what
+is their uh vision for China? How can
+China not just catch up to uh the United
+States but also leaprock over the United
+States?
+>> Very long-term thinking.
+>> Very very long-term thinking. And the
+policy approach they adopted was to do
+technology transfer. M
+>> and so the idea was that they would
+create a regulatory environment
+basically tax incentives, free land um
+very generous um government support
+subsidies uh which would allow American
+mainly American but also German western
+companies to come into China and build a
+manufacturing hub to export products
+around the world. And this was extremely
+beneficial for both China and the and
+western uh manufacturers and and
+consumers and ultimately this made um
+China into the world's foremost
+manufacturing power
+>> and um but that those 30 40 years
+cemented in China a sort of mentality of
+perceiving the world and of doing
+business which is what Al Cafe says we
+don't need to do zero
+We we don't need to do innovation. We
+don't need to go from 0 to one. We can
+just do scaling from one to 100. And
+China does manufacturing scaling better
+than anyone else in the world. And in
+fact, these past 10 years, United States
+have have tried very hard to offshore uh
+their manufacturer dependence to other
+places and that's has not worked because
+um at a manufacturing level no one
+competes and no one is as as competitive
+as China. So, and often um you know if
+you are importing manufacturing goods
+from Vietnam or Malaysia or Thailand,
+they they're not actually local
+companies. They're not indigenous to
+these countries. They're often companies
+that have moved to these countries in
+order to escape American sanctions.
+>> Um,
+>> right. So, so China does one to 100
+better than anyone else.
+>> But, um, as Kathy points out, 0 to one
+and 100 are two vastly different things.
+And as a result, what China has
+discovered is it can't really do uh 0ero
+to one well. Um but you know its entire
+uh policym level, its entire economy,
+its entire uh education system, it
+revolves around the one um goal and so
+it cannot actually pivot. Um
+>> it's mutually exclusive.
+>> These are mutually exclusive. it doesn't
+pivot. Um and and I would say this the
+same is is for the United States where
+United States does 0 to1 well it doesn't
+do manufacturing at all right right
+because it's it's offshors manufacturing
+uh to China um so um people say that
+there's this major competition between
+China and the United States but if you
+actually look at what's really happening
+on the ground I would say the economies
+are actually complimentary as opposed to
+uh and actually in competition uh
+against uh each other So for example uh
+in science people don't really
+appreciate this but the United States
+and China has always worked really well
+together uh ever since the 1980s. So uh
+the classic example is Harvard was
+trying to conduct a DNA study [snorts]
+>> and you can't actually do that in United
+States because of privacy laws right and
+uh you could be sued if you try to
+collect DNA
+>> but China doesn't have privacy laws
+>> and um Chinese consumers are blissfully
+ignorant. So Harvard was able to go to
+China, go to these villages and conduct
+these massive DNA studies which really
+enhance our understanding of the uh of
+the human genome um at a very very low
+cost. And this sort of cooperation
+between American scientists and Chinese
+scientists have been going have been
+ongoing
+um and it actually transcends the nation
+state rivalry. Yes.
+>> Um and the u there are lots and lots of
+examples um some examples are have been
+very controversial. For example, uh
+crisper technology was implemented in
+China. Um I forget the person's name,
+but but but he's a Stanford graduate
+student.
+>> Uh and then he went to Shenzhen to try
+to use crisper in order to immunize uh
+infants, babies from the possibility of
+an AIDS infection.
+>> Um and that was very controversial. And
+because of the media backlash, I think
+uh this man was imprisoned and
+sanctioned by the Chinese government.
+But uh I'm telling you right now, this
+actually happens a lot in China because
+we realize
+>> more than we realize. It's all covered
+up because what science does is often um
+and this offense to Kathy, but a lot of
+science is actually not transparent to
+the public. It's not open. The funding
+sources are murky. um the actual uh
+processes are maybe too complicated, too
+complex for government officials to
+fully appreciate.
+>> Um and the classic example of course is
+the gain of functioning research. Yes.
+>> Um in in Wuhan.
+>> That's right. That's right. And uh so
+the gentleman you're speaking of, he
+um he shinqu That's right. That's right.
+That was that was a gentleman. um help
+me to understand um
+how or why China has developed this
+ability to think long term cuz I've
+actually I've always thought about this
+um when I look at people who are
+successful um and doing really well in
+in life, they all tend to have very a
+great ability to think long term rather
+than short term. And and this is obvious
+on a very large scale in China. How how
+why how did that develop in China?
+>> Well, I think the first thing that
+differentiates China from other places
+is the techno utopianism of the culture
+and the people,
+>> right? Because if you're Chinese, you
+are really appreciative of what
+technology has done for your society.
+So, you guys 1980s, China was one of the
+most uh poor places in the world, right?
+and technology has allowed China to
+become extremely rich and leaprock over
+um western economies. So if you go to
+China today in many areas, China is far
+more advanced than Europe or um United
+States. Europe doesn't have air
+conditioning. Okay? So you know that's
+something that the Chinese joke about uh
+this summer. Um so the Chinese have
+grown up in uh environment in which
+technology is constantly um evolving and
+has brought tremendous benefit to the
+Chinese people. So culturally chi the
+Chinese are extremely technoutop
+utopian. So they're open to new
+possibilities like biotech um and AI. Um
+whereas in the west I think because of
+um
+>> of concern about bioeththics and um the
+and and maybe some dystopian incidents
+in the past for example war people are
+much more skeptical towards
+>> fear fear of dystopia.
+>> Yeah. Um there's people are much more
+skeptical. Uh so that's one difference.
+Mhm.
+>> Another difference is that China is a
+very topdown system, very strong
+bureaucracy.
+>> So it's not that they think ahead, it's
+more like they can get things done,
+right? And the classic example um are um
+the highspeed rail system.
+>> Wouldn't it be wonderful if we had a
+high speed highspeed rail uh to connect
+Toronto and Montreal?
+>> It would be absolutely wonderful,
+>> right? But but but because of
+regulations, because of vested
+interests, because of unions, there
+there like a thousand different factors
+at work to prevent this from happening.
+Um and China doesn't have this issue.
+You have you ha you have one central
+authority and they are able to basically
+implement whatever vision that they
+want. That's a that's a very interesting
+paradox because you said and it is true
+China is a very bureaucraticheavy
+uh country and system yet they move
+quickly and and here we like to think
+that we're more of a democratic system
+and not so bureaucratic yet we move
+slowly and bump into these red tapes all
+of a sudden that prevent things like
+that. That's a interesting paradox I'd
+never thought about.
+>> Right. But I will also caution you and
+say like um even though these two things
+sound fantastic technou utopianism as
+well as centralized planning it does
+lead to long-term thinking. Yes.
+>> Um there are problems with this system.
+Okay. The biggest issue is risk
+mitigation.
+>> Identifying risk making sure that you
+account for these risks in your
+planning. China does not do that. Um and
+so the example is again the highspeed
+rail system. Sure, it's fantastic that
+you're able to build out this national
+railway system in less than 10 years
+that is very efficient. Uh they are
+always on time. I I've been on on these
+trains lots of times. I'm not sure if
+you've had a chance to to ride them, but
+they're fantastic,
+>> right? But okay if you if you go
+longterm and say okay 10 20 years time
+how
+uh what are some issues that could arise
+from the house from the highspeed rail
+issue. Okay the first issue is
+maintenance.
+>> Are you able to maintain this high-speed
+rail system in a way that is safe and
+effective
+>> um for the nation? Okay. And I have
+questions about that. maintenance is a
+huge issue in in China. That's number
+one. Number number two is just cost
+effectiveness because these high-spe
+speed rail system is losing a lot of
+money.
+>> Um and and right now the government
+subsidizes the highspeed rail and
+therefore it continues. But if say China
+were to face a budget crunch because of
+global supply chain disruptions if China
+is no longer able to export goods and
+it's facing a fiscal crisis. Well then
+what would how what impact would it have
+on the highspeed rail system? There are
+some economists who argue the highspeed
+rail system it's a white elephant.
+>> Yeah. And how would that trickle down
+through the whole economy? People can't
+travel and and and and the like.
+>> Right. And and I I would say um another
+um huge issue that um Chinese don't
+really think about is safety issue.
+>> So you can design a system that looks
+perfectly safe and there's a one in a
+10,000 chance of an accident happening.
+>> But when the accident happens, lots of
+people died. And so there was a
+derailment um in WJO many many years
+back that killed about 2,000 people.
+>> Really? Yes. Wow. Um so so um so so it's
+really important to appreciate this. We
+can say we can talk about the great
+things about China but these three
+issues okay um like like th like
+understanding the risk long term
+um being cost effective and safety
+issues uh they could also apply to
+biotechnology.
+>> Yes. So yes, it is possible that China
+steams ahead in biotechnology in the
+short term.
+>> Mhm.
+>> But in the long term, I'm talking more
+like a 20-year time frame.
+>> Um this speed could create more issues.
+>> At what expense?
+>> At what expense? Okay. and and a and a
+huge issue uh in China is now um just
+artificial intelligence, self-driving
+cars, renewables because
+>> honestly we don't yet know how to make
+these things profitable.
+>> All these things are being subsidized by
+the government and that's great. The
+government is being a long term. It
+wants um China to progress
+technologically. But if you just look at
+things from just a basic economic
+costbenefit analysis, you have to ask
+yourself, should China actually be
+engaging in this [clears throat]
+technology?
+>> And I'm sorry to say this, but I think a
+classical economist would say no. China
+should not be doing this.
+>> Interesting.
+>> Yeah.
+>> Okay. Um and so speaking of technology,
+let's go back to uh origin genomics for
+a second. tell us a little bit more
+about um because the safety issues is a
+very very good point in terms of biotech
+trains biotech safety issues in both
+biotech or in specifically germline
+editing there's the added
+u possib the changes and the corrections
+that you're doing are heritable
+>> so it there's a very unique uh aspect
+there where you can pass you will pass
+these things on to next generation next
+generation next generation so that's got
+some interesting implications but so
+let's talk about specifically what it is
+you guys are doing now.
+>> Um what have you accomplished? Uh what
+are you hoping to do? Where do you guys
+stand right now?
+>> Yep. So I I took on this challenge of
+using gene editing to get rid of
+particular genetic diseases um in a
+different format than what have what has
+been done traditionally in my field
+which is administering gene therapies
+via a virus into a body. Um cuz we've
+seen that that's really expensive. It
+doesn't really work and it's really
+invasive. um catastrophe for example,
+you have to get chemotherapy. It's $2
+million and then you also can't
+reproduce afterwards. Um it destroys all
+of your gametes. So with what I'm
+building, I I realized that the the only
+way to make crisper work, at least in
+2026, is actually in dividing cells,
+which is an embryo. We have really good
+technology now to sequence the DNA of an
+embryo or the DNA of a parent or both
+parents um before the embryo is created
+to know if this embryo is going to carry
+a really deadly disease like Tesax,
+cickle cell uh cancers, hereditary
+cancers. And you can actually design
+these gene editors to go directly into
+the embryo and correct that mutation
+before the cell starts dividing
+>> right
+>> into two, four, eight, hundreds,
+thousands and then millions and
+billions. So as they divide the the fix
+gets passed on to daughter cells
+>> and spreads throughout the whole body as
+>> Exactly. So then you don't need the
+virus anymore which is the main reason
+why this doesn't work right now and it's
+so expensive and it hurts people right
+so that is what I realized like it makes
+a lot of sense now with this entire
+field of heritable gene editing anything
+to do with changing the DNA of an embryo
+it becomes really controversial and for
+some reason it has it's not just for me
+it's it's been happening for decades and
+decades like even when IVF was first
+invented um it was on the front page of
+time being like oh my god Frankenstein
+test tube babies. This is something to
+be afraid of, right? Versus now when we
+look back on it, it's um it's kind of
+foolish to say that because now we have
+two mill two million lives every year
+that are born through IVF and it has
+helped so many families create children
+have you know have their own children if
+they're not able to themselves. So I
+think that you know like that this
+there's a weird media um frenzy around
+germlineing as well and I think it
+actually can help a lot of people. Ever
+since I decided to work on this, I
+actually have received emails and
+messages from so many families across
+the world in different countries,
+different languages that say, "Hey, I
+have, you know, my family has spinal
+muscular atrophy or my family has
+Alzheimer's, my family has heritis here,
+breast cancer, cystic fibrosis, like
+Huntington's." All of these diseases
+have just one gene where you can make a
+really precise correction of one
+nucleotide like ATCG and just correct it
+for life. It has the potential to do
+that. In the US in 2011 or 2012,
+Congress pulled all the funding from
+federal entities like FDA to review this
+technology. So FDA doesn't have a
+framework or funding to review this for
+approval for clinical use. And it's been
+15 years, right? And I think that's just
+goes goes to show just how um how much
+like um I guess of a stagnation there is
+in reviewing the safety data. the um
+just changing one's perspective on this
+when it can actually help a lot of
+people. Um I think the biggest thing is
+that there's a really big unmet medical
+need, right? It's not just that we're
+trying to do this, you know, for um no
+good reason. There's a very clear
+reason. There's hundreds of millions of
+people around the world that have these
+diseases and every single time, every
+single generation, they pass it down to
+the next generation and the next
+generation. and um and trillions of
+dollars are spent every single year
+globally to treat these diseases after
+someone's born and it's extremely
+invasive. There's a lot of suffering.
+You know, I kind of came into the field
+thinking that you're supposed to use
+medicine to help people. And now I'm
+realizing there's so much bureaucracy
+and politics and you know even a fellow
+scientist you know they try to follow
+the like the media approved narrative
+saying this is unethical. like how is
+this unethical when we're trying to do
+this um you know in in uh model
+organisms and cell lines showing the
+safety to like the sha safety data
+efficiency data so I think this is the
+right thing to do especially given the
+limitations of current technologies I
+think when you zoom out of thinking um
+like when you're zooming out and
+thinking longer term and big picture um
+I think that this is where it gets
+interesting like right now people have
+these diseases and they have to get gene
+therapies or pharmaceutical products to
+treat it there's a lot of people that
+you know are involved in that industry
+and then when you pass it down it's like
+another subscription right like it's a
+kind of
+>> like I was going to mention you're
+you're basically describing a disruption
+of a subscription model.
+>> Yeah.
+>> Yeah. Very disruptive.
+>> Very disruptive
+>> to a lot of people who are making a lot
+of money.
+>> Yeah. Exactly. And like that's just the
+whole medical system in you know every
+country and um you're supposed to treat
+these things after someone's born.
+There's diagnostics, there's therapeutic
+industry, and then when your kid has
+that disease, they have to redo that
+again, and it's like another, you know,
+for catastrophe, it's another $2 million
+for the pharma company. What I'm saying
+is that like if you actually correct it
+in the embryo, you actually never have
+to get that disease again. Like your
+kids don't get it, their kids don't get
+it. Like I think that's a net positive,
+but for some reason there is like a
+weird um negative aura around this
+technology when it comes to like the
+controversy and the push back.
+>> Yes. And I think a lot of that comes
+from misunderstanding. um uh people
+immediately think about what we
+mentioned earlier, you know, eugenics
+and and and genetic engineering to
+create super soldiers or or whatever it
+might be. You made a really good point
+with IVF, Robert Edwards, who's who's
+the the father of IVF, he was uh on
+huge when when when it when he when it
+right, he was
+>> uh claimed people claimed he was playing
+God. But now in retrospect, like you
+said, two million people born of IVF,
+lots of happy families. Uh it's it's
+touched our family personally. I I uh
+and um
+>> what do you and now in hindsight nobody
+complains about it,
+>> right? And so what do you think it's
+going to take
+>> for germline editing to have that
+reversal the way that IVF had?
+>> Yeah. I I also just want to provide
+another example. It's not just biotech.
+Like when electricity was first
+invented, the gas industry had so much
+propaganda saying electric like and I
+have photos of this too. like the gas
+industry would say electricity can kill
+you. It's like witchcraft. Um there's
+there when there's a shift in power for
+when a new technology arises that can
+change the distribution of power.
+There's always going to be a lot of push
+back especially you can see it in the
+media and propaganda can see it more
+clearly in hindsight like what we're
+seeing with IVF now. It's very
+acceptable. It's you know applauded as a
+technology. He even won a Nobel Prize
+for it. Um, but when you're going
+through it, there's always just so much
+push back from the people that you
+challenge when it comes to like power
+redistribution with a new technology.
+And I think that's where we're at with
+germline editing because of the reasons
+I explained and and and how it can
+fundamentally change the medical system.
+>> Yeah. And and and I'll put this out
+there just just occurred to me. Um, in
+the absence of germline editing, if you
+have what does happen sometimes is, uh,
+you a family will have genetic testing
+prior to a child being born and if
+something devastating comes up, often
+times abortion
+>> is is is an option that people take. So,
+you would think that that this would be
+a counter to that. You know, we can
+actually prevent any abortions from
+happening and whatever your position is
+on abortion, but this would be a way to
+to counteract that. Um, okay. rather
+than aborting a fetus.
+>> Um, not just aborting, but when you're
+going through IVF and you, you know,
+someone in your family has a disease or
+one of the people, one of the parents
+have a disease or maybe both do, um, you
+do something called PGT,
+pre-implantation genetic testing. So,
+you screen all of the available embryos
+for
+>> the particular mutation and then you
+discard the embryos that have the
+mutation, only implant the ones that um
+are healthy and don't have the mutation.
+But the problem is, you know, a lot of
+families don't have a lot of viable
+embryos to begin with. When you're going
+through IVF, you're typically a little
+bit older. You have a limit
+>> statistics and numbers game at some
+point.
+>> Yeah. And also just, you know, you
+should give people more choices like if
+they want to use more embryos, have more
+children, you know, this this technology
+would allow them to do that and have
+more viable embryos to choose from or if
+they want to have multiple children that
+all don't contain the mutation, they can
+have the choice to do that. So I think
+it's a very complimentary technology to
+the existing um IVF workflow and what's
+available right now for genetic
+screening and disease prevention. Um it
+yeah I think it it just adds very
+naturally on top of that.
+>> It does plug into the IVF workflow very
+very well. Uh Professor Jang, what is uh
+the um uh uh China's perspective
+culturally, people you know um society
+in general, what is their perspective
+and opinion of IVF? Uh is does that does
+that occur often there? Is it a is it a
+a viable option? Um, also in the context
+of the former one child policy as well,
+did that have some did that prevent IVF
+from becoming a thing or is it a thing?
+How's IVF? What's it like in China?
+>> Yeah. Um Um
+I could be wrong. Okay. But but what I
+believe is that IVF
+is actually um illegal in China. Okay.
+>> Yeah.
+>> Interesting.
+>> Um, so I I I won't need to fact check
+this, but I know that surrogacy is
+illegal.
+>> Okay.
+>> Right. And why surrogacy illegal?
+Because it is seen as a form of
+exploitation,
+>> right? Where where I'm an wealthy woman.
+>> Mhm.
+>> And I can't be bothered to have my own
+child or maybe I'm too old to have my
+own child. So I uh bribe a younger woman
+to have this child on my behalf. M
+>> so this raises a lot of ethical
+questions that highlight the inequality
+in China and the government is very
+sensitive towards that and so surrogacy
+is um illegal in China
+>> and what wealthy uh women tend to do um
+and this actually pretty common in China
+is they will actually
+um fly to the United States or uh a
+western country and they will do a
+surrogacy um in United States because it
+is not illegal in the United States and
+they will hide the surrogacy from
+Chinese officials.
+>> Right. Right.
+>> Okay. So um and I believe that um IVF
+is also um illegal for the same reasons.
+>> So just to jump IVF I think IVF is legal
+but there are certain things are illegal
+like you cannot select gender
+>> right. Okay. Okay.
+>> And can't do surrogacy. So like
+>> Yeah. Yeah. So so that makes a lot lot
+but but I know it's pretty heavily
+regulated.
+>> Yes. Interesting. Interesting. [snorts]
+Okay. Uh so Origin Genomics, where do
+you guys where do you guys stand right
+now in terms of approvals uh rolling out
+a product for a lack of better term?
+Where are you right now in the in the
+process?
+>> Yeah, so we have made a lot of progress.
+Um I realized that the center of gravity
+for bioeththics despite you know this it
+challenges are actually still in the
+United States. So I decided to set up a
+company and a lab in the United States
+to take this head on. So with Origin
+Genomics, we have a laboratory that is
+IRB approved. IRB is like a third party
+ethics committee that reviews your
+protocols. Yeah. They review your
+protocols, the patient consent process
+and the forms. Um and they approve of it
+before you can start your experiments
+and your work. So we have that approval
+to do human germline gene editing.
+>> Are you the first company to get that
+approval?
+>> Um at least publicly. Yes.
+>> Yeah. Right. Yeah. Okay. and we have um
+donated um human samples, embryos um
+that contain disease mutations and we're
+working on prime editors, base editors
+to help correct those mutations. So
+another thing is with gene editing,
+there's different types of editors and
+it's important to distinguish what we
+have available now than before. I think
+before um when there were when there was
+more controversy, one of the biggest
+push backs was on the double DNA strand
+break. So causing safety concerns. what
+if you have an un unintended consequence
+like an off-target mutation um or um you
+know chromosomal abnormality a loss of
+hetererozygosity and now with the newer
+technologies um there was a paper that
+came out in June from a Colombia group
+that showed very precise um changes done
+with base editors in human embryos and
+and it didn't have any offtargets or
+chromosomal abnormality. Now when you
+extrapolate that more and use it for a
+therapeutic uh context, not just making
+any mutation precisely, but correcting a
+mutation that is known in that embryo to
+cause disease, then what you have is a
+therapeutic germline gene editing
+platform where someone can give you
+their embryos, it can design an editor
+just for their mutation, can safely
+introduce it into their embryo and then
+correct that mutation before it's
+implanted and it becomes a baby. So
+that's and I would say this should only
+be used for very very dire diseases that
+are known to have a genetic um genetic
+factor like one specific mutation
+because that's where this technology has
+shown to work really well and really
+safely and so what we're doing at origin
+genomics is we're providing um producing
+a lot of that data and then um I'm also
+doing a lot of uh a lot of other work
+like I I just wrote a paper um I haven't
+written a paper since I was a teenager
+so this is really big challenge for me
+so over the summer I I wrote a paper for
+cell press trends in genetics as a
+single author on the um on therapeutics
+germline therapeutic germline gene
+editing and it will come out in the next
+two weeks or so. Um it talks about kind
+of this entire workflow, how this fits
+into IVF, why this is the right time to
+do it, what kind of new technologies
+have been developed for this to become
+safer than ever and what still needs to
+be derisked for this to be implemented
+in the clinic. But my hope is that one
+day origin genomics can help couples,
+families that have these hereditary
+diseases not pass it down to their
+children and still have as many healthy
+children as they would like. And
+>> and then these diseases that they carry
+will then um you know not be uh not not
+cause suffering in their you know
+offspring and their offspring and their
+offspring. So um that's the goal. And
+and you mentioned you focusing on uh the
+most extreme of cases but also uh for a
+lack of better term the simplest cases
+what people need to appreciate when they
+hear um uh you know genetics being um
+evoked they think it's very simple one
+gene one mutation causes some sort of
+problem where in reality most things are
+multiffactorial is the term the
+geneticist would use many genes come
+together and play this uh uh large
+symphony uh to bring about some sort of
+some sort of issue or some phenotype. Um
+so you're focusing on the more simple of
+those um problems that are not as
+multiffactorial per se. Uh is there a
+particular condition disease that you're
+focused on mostly?
+>> Um right now like in this moment we're
+just very focused on hereditary cancers.
+Okay.
+>> Um but we're also going to be working
+other monogenic disease areas very soon.
+um specific bros, Huntington's like
+these types of well- definfined well-
+characterized uh monogenic diseases.
+>> So, let me ask you an ethical question.
+Where do you draw the line between
+therapy and enhancement?
+>> Uh whether it's a correction or um
+anything that's not a correction, right?
+Correction is when you know Yeah. when
+you know there's a mutation that causes
+a disease for sure. there's, you know,
+tons of studies and publications on that
+and you're correcting that mutation
+versus you're inducing a a variant or a
+mutation that didn't need to be there
+that was, you know, is already healthy
+before you went in and edited the
+embryo. So, that's the that's the
+distinction.
+>> Where do you see Origin Genomics 10
+years from now?
+>> I have a very ambitious goal. I want to
+help hundreds of millions of people not
+pass down their genetic disease if they
+choose not to. Again, this is really
+important because there is a history of,
+you know, eugenics and and things like
+that with genetics in general,
+>> but it's very important that there is a
+choice here. But if people don't want to
+pass down their genetic disease, then
+they should have the choice not to. And
+I'm hoping that Origin Genomics can help
+millions, tens of millions, hundreds of
+millions of people make that decision.
+If they choose to do that, then we can
+help help them have healthy children.
+And I'm glad you said that because we
+did just go through a nice period of
+coercion in terms of medical practice
+over the last couple of years visa v co
+and it's important to state that choice
+is very very important.
+>> Yeah.
+>> Professor Jang having heard um Kathy's
+story what are your what are your what's
+the first thing you think of in terms of
+power distribution once this sort of
+technology becomes more of a mainstay?
+>> Yeah. So uh my first uh impression is I
+think you ask a great question. Um um
+how do you differentiate between
+correction and enhancement? important
+question
+>> and it's not possible to tenmologically
+right I mean like if you're able to
+correct you can also uh enhance and um
+you you're assuming there are regulatory
+uh uh rail guard to make sure uh this is
+not abused but what we know is like that
+once you have the technology um in place
+you open Pandora's box and I think it'll
+be really hard to regulate especially
+now that science is transnational right
+so if you uh in China don't allow this.
+Well, in China, they would probably
+allow this because China does 100 very
+well.
+>> Uh in which case, you're now also forced
+to adopt their lacks ethical standards.
+So, um that's my first impression. I
+don't think you could create a situation
+in which um the technology once it is
+created, once it is refined and
+perfected, it's only focused on
+correction. Uh you will eventually have
+enhancement uh as well. So, that's my
+first uh impression. My second
+impression is I think it's wonderful
+what what Kathy is doing and this is
+definitely the future and I would
+definitely invest if I had any money. Um
+but when I think in terms of
+geopolitics, I'm I'm I'm looking at
+things at a very macro structural level.
+And so the way I I would interpret this
+technology would be very different from
+the way that you would interpret it,
+>> which is uh if I'm a nation state, I
+have to solve a labor issue. And one
+problem that um I would need to solve in
+the future primarily because of the
+aging crisis, right? Every major devel
+developed nation is facing the aging
+crisis. We're going to have an elite
+that is um over 70 over 80 and they need
+uh nursing they will need health care
+and so I need to solve that problem and
+I need to make it cost effective. Right.
+So one solution that people will have
+proposed is robotics. Yes.
+>> Right. But actually there's a better
+solution and and a better solution is to
+create a doxile population that is
+focused on serving others.
+>> And um I again I'm saying this at a very
+nation state macro level and I and I
+know this sounds preposterous
+but but if I but again if I have
+millions of very wealthy elderly people
+I need to take care of then I need to
+provide millions of healthcare workers.
+that are cheap, that are doxile, and and
+who are committed. And so, is it
+possible for me in the gen editing
+process to um favor certain genes that
+uh create to doxity in people and remove
+the aggression and ambition
+>> uh and the spontaneity in in people? And
+I I would imagine the answer is yes.
+Right? So if I'm in nation state and yes
+I want to create robots because I need
+to solve that aging crisis but robots
+are expensive
+uh and robots are dependent on a global
+supply chain. I need to be able to
+source copper, lithium, helium from a
+variety of places and in a time of war
+and we are we are in a time of war.
+People people don't appreciate this but
+we are in a time of war. uh like
+sourcing these minerals and elements are
+very expensive but to give birth to a
+baby is actually really cheap
+>> and then uh once once you once your
+technology is in place and I'm able to
+scale the technology then gene editing
+these babies is also really cheap right
+it cost me almost nothing to give birth
+to children but it will cost me a lot to
+build a robot Um, and in terms of
+national security, I'm actually better
+off gene editing babies than I am
+building robots. I
+>> I have a question. So,
+>> very interesting perspective. Yeah.
+>> Yeah. I have a question. So if we're
+optimizing for docsility and lack of
+ambition, wouldn't just like
+environment, wouldn't we just isn't it
+easier to just kind of, you know, take
+take people from like kind of what we're
+doing right now in in countries where um
+there's cheap labor and they may not
+even have maybe they're already docile
+and they just kind of want a normal life
+and isn't it e a little bit easier that
+way
+>> or to put lithium fluoride in the water?
+>> Yeah. [laughter] Or
+>> take Canadians. So, so, so again,
+nomination state, I'm worried about risk
+mitigation. So, I don't want to take
+that chance, right? Yes, in theory, if I
+took a lot of
+>> um I mean like let's not name people,
+okay? But if I took a lot of these
+people um they will be doxile, but maybe
+only for the first generation, right?
+How how to make sure the second
+generation, third generation also also
+doile. And we know that once people come
+into a culture, they acclimatize to that
+culture,
+>> right? So, um I don't want to take that
+risk.
+>> Right.
+>> Very interesting. Have either of you
+seen the show Silo? No. Okay. I I
+recommend it. Uh we can talk about it
+later, but it kind of plays into what
+you're what you're mentioning there. Um
+now, in terms of of you know, you bring
+up a good point about about uh one of
+the problems is aging, aging
+populations. The other global problem is
+just birth rate. Mhm.
+>> Uh so it's it's two counter uh uh two to
+two juxtapose problems that sort of feed
+on each other. Uh do you see your
+technology
+potentially in the future being able to
+mitigate birth rates?
+>> Uh possibly I mean definitely a little
+bit but I think the biggest impact
+positive impact can have is on the
+health care costs. I think the
+healthcare cost in any country is one of
+the largest. Um HHS in the US stands
+spends more money than the entire
+defense department which is a lot for
+the US. So I think if you can help
+reduce the health care burden then this
+makes a lot of sense and you can help
+save so much money that can be spent
+somewhere else
+>> instead of treating diseases and you
+know diagnosing and treating diseases um
+and that being a huge cost for the
+country. Mhm. Uh there's also an
+interesting historical parallel that
+perhaps you can touch on is the way that
+um the Brits captured the coal industry
+a couple hundred years ago and Americans
+captured the oil industry and then
+somebody will capture the computing
+industry. Who's going to capture the
+biotech industry and come out on top? Is
+it from a historical perspective using
+the history of of of of those paradigms
+to project into the future as you do so
+well? What are your thoughts on that?
+Well, I I think um if I were betting
+person, I would bet on Israel.
+>> Um
+>> they have a huge biotech sector,
+technology, industry.
+>> Yeah. Also, um and again, I I don't want
+to be too politically sensitive, but um
+a lot of the ethical rules that apply
+and constrain uh the American biotech
+sector will not apply to the Israeli
+biotech sector. Um and that would give
+them a huge advantage. So they they have
+capital, they have talent, um they have
+infrastructure and they're not
+constrained by ethics, um and religion
+and privacy. Um so they almost have like
+a green field in order to develop this
+technology. Um
+>> interesting. What are what are the what
+are the um unintended unexpected
+unintended
+consequences of being so open and where
+does that where does that go ary can
+that go ary
+>> well I mean it can it can be very
+dystopian right so um in order to
+perfect this uh technology you're going
+to have to experiment and when you
+experiment on human beings
+>> it's a very good point
+>> I'm sorry right it's like 99% are going
+to be rejects
+>> right so um the human suffering the the
+the the cause will just be tremendous
+but this is something that you have to
+endure if you want to perfect and refine
+this technology.
+>> Mhm. Do you have any fear that you know
+because biotech is as as you you both
+mentioned a very open um field of study.
+It's pretty much open source for the
+most part until unless you've got
+something that's proprietary. But I mean
+the technology, the knowhow, especially
+with AI now is it's amazingly open. So
+my question is, do you have any fears
+that this could become weaponized?
+>> Yeah, I have a lot of fears around that.
+>> And and what are you what are what are
+you doing or what do you hope others are
+doing to mitigate that?
+>> I mean, we've s we've seen with CO what
+happened when you have kind of a a virus
+that would just travel like viruses
+biology, they don't respect borders.
+Yeah,
+>> I think that's a really
+>> um important point because when you even
+just get zoom out of viruses, you look
+at something called gene drives. I don't
+know if you guys have heard of this
+where the Gates Foundation funded
+>> Should say Bill Gates's favorite now.
+>> Yeah. Gates Foundation funded this
+project where you can create mosqu
+mosquitoes in the lab that act as gene
+drives and you release them into the
+wild. They mate with regular mosquitoes
+in the wild and their offspring you know
+instead of like 50% hetererozygosity
+100% of them all offspring will carry
+the mutation intended that you know you
+release from the lab and for their
+application they were trying to um uh
+reduce the amount of malaria that can be
+carried from mosquito to people in that
+region. So, you know, these m these
+mosquitoes that were released from the
+lab, they're unable to carry malaria.
+And so, while that is a is a pretty good
+application, you can also think about
+what can go wrong with that. Um, these
+mosquitoes don't respect borders. It
+could be really any any flying bug,
+right? Any bug, any any animal that can
+be a gene drive. These animals don't
+respect borders. There's crops. There's,
+you know, there's a lot of things that
+are very sensitive to things like a gene
+drive. So, this gets a little bit
+dystopian now. It's more on the
+biodefense side. But I think even even
+for something like insects like
+programmer insects with the with uh the
+gene drive technology, that's something
+that we need to all start thinking about
+as soon as possible.
+>> Um I don't really think people are
+thinking much about that in the public
+sphere. Everyone's kind of thinking
+about AI and chat bots, but really like
+these are the things that will really
+affect our day-to-day like physical
+worlds. And you're you're you're right
+with the with the GAN drive uh sort of
+um uh example
+these fixes. So if we're thinking about
+it from a um benevolent perspective, you
+fix and it gets passed on and you stop a
+disease, right? Uh but like you said,
+biology doesn't respect borders. Once
+you start going from fixing to
+enhancement or maybe to something like
+the docsility that you you you you
+describe, people get people get out into
+the wild, they start to mate and will it
+will propagate eventually through many
+generations, you know, uncontrollably.
+>> So, do we need to think about this ahead
+of time? You know, you know what I mean?
+Like there's there's things that are
+there there there are things that will
+happen as a result of this technology
+that nobody is thinking about. And I
+wonder what those things are. Um, you
+don't know what you don't know
+obviously, but do we need to go slow?
+What are the benefits of going slow and
+what are the benefits of going fast
+here?
+>> Well, evolution has historically taken
+thousands of years to, you know, to to
+change in human populations.
+>> Yes.
+>> With this technology, things can happen
+>> overnight
+>> and it can be propagated forever in our
+species
+>> um and other species with the
+mosquitoes.
+>> Mhm. And that's that's really just
+important to to remember. And I think
+that this is where regulations need to
+come in. Um, and we just all should be
+thinking about this. I don't think we
+should stop it because what happens when
+you stop it and ban it, which kind of is
+what happened in the US for the last 15
+years with herable gene editing. What
+happens is that it's still going to be
+developed somewhere else and you're just
+going to have less control over it and
+>> and that's not good. And then and then
+with something like gene drives um it
+can be it can be even more immediate um
+because these mosquitoes can be released
+tomorrow versus you know a heritable
+gene edit will still take many years for
+the child to be born in and such.
+>> Um
+>> so I think these things should be um I
+mean I don't want to I think there's a
+mixture of everything. There needs to be
+public education discourse. There needs
+to be um you know regulators. There
+needs to be scientists talking about
+this. I think scientists have also just
+that whole academia industry has also
+been um it's a monolith in a lot of
+ways. People don't really talk about the
+important things. Certain ideas are just
+too dangerous to even talk about or
+think about. It's very censored um more
+than ever in the last you know couple of
+decades and um especially because I
+think a lot of um after World War II
+public funding started. So grants
+funding of academic research was from
+the government versus before it wasn't
+like that. So now a lot of the opinions
+and discourse and censorship it's it's a
+lot more monolithic than it was before.
+So science looks a lot more different
+now than it did before. So I think first
+we need to have these these
+conversations discussions with just as
+many different parties as possible and
+start thinking about how to mitigate
+these risks.
+>> Professor Jang, you mentioned um H Jang
+Qui from from uh China. Um you knew him
+personally. I don't want to get into it
+deeply, but I just curious, what did you
+learn from that experience and how
+you're applying those lessons to what
+you're doing at Origin because it was a
+great insight. I mean, I'm sure you
+learned a lot.
+>> Mhm.
+>> How do you apply those lessons learned
+to what you're doing?
+>> Um, I realized that certain technologies
+can be very geopolitical like that one.
+Um,
+>> yeah, I I learned a lot from it. I think
+it's important to kind of do do things
+in the open and and and just you know
+share results, share the protocol, share
+progress with the public because I think
+when science especially consequential
+science is done um behind closed doors
+and then released to the public kind of
+suddenly there can be it's a very
+jolting experience for the public and
+regulators and and uh and like
+governments. So um that's the main thing
+I took away. Um but I also took away
+that this is a really important
+technology. the fact that there's so
+much attention on it, good or bad, it's
+the it's it means that this is
+consequential and needs to be done. Mhm.
+Professor Jang, if you had to advise,
+let's say, the United States or North
+America, from your perspective where you
+sit in China, how would you advise North
+America to put them in a better position
+uh whether whether it comes to
+competition and and and biotech or just
+in order to shift the power balance back
+to the United States? How would you
+advise based on what you know and what
+you've seen on in the east?
+>> [snorts]
+>> Right. Um, so I don't really do
+um what should be.
+>> Mhm.
+>> I basically do predictions. I said what
+will be
+>> and so um I think that these ethical
+concerns are correct
+>> but um we're way past that and uh we are
+going to like uh steam uh right ahead in
+this technology. So I think it's better
+to think about the consequences of this
+technology rather than say should we do
+do this technology. So I think the main
+driver of this technology is um and and
+Kathy can agree or disagree but I think
+um we have throughout the world a
+minority of very powerful people
+billionaires uh presidents who are very
+old and they want to live forever and
+they want to remain young. Mhm.
+>> Um and certain individuals like Vladim
+Putin has has openly discussed this,
+right? How organ transplants
+um can rejuvenate uh him. And so there
+is so much funding and so much power
+behind uh biotechnology and
+transhumanism that I think that that's
+is the path uh we're going to take. And
+so I think that China, United States,
+and Israel, these three nations, but
+possibly other nations as well, my
+prediction is they're much more likely
+to work together
+>> than they are to compete against each
+other.
+>> And so, uh, each nation state will will
+have certain specializations.
+>> Um, and as Cavi points out, what, uh,
+the United States does very well is 0
+to1. It has the most talent, it has the
+most capital and it has the best
+infrastructure, has the best research
+universities. It's impossible to compete
+uh against United States uh in terms of
+innovation and that that's why Kathy is
+is in New York, right?
+>> Um China does certain things extremely
+well 100 uh but also um it is a very
+technoutopian society that would
+subsidize a lot of this research. Um and
+um when scientists work, you know, when
+they move to China, people don't
+appreciate this, but you would
+appreciate this is like they're still
+communicating back in the United States,
+right? It's it's a transnational
+project. Just because they're based in
+China does not mean that they're only
+using Chinese resources. Uh they're
+often invited to China because they're
+able to access global resources. Right.
+>> Right. Um and Israel has a lot of
+advantages in that they are able to test
+in a certain way that other nation
+states are not able to uh test uh just
+because of their religion and um um just
+just of their politics. I think Japan um
+would be also be a very important player
+because they face aging crisis um and um
+healthcare is very important in in
+Japan. So I I don't really see the
+future as one of geopolitical
+competition. I see it more as
+cooperation. I think that uh biotech
+science is actually transcend
+>> uh national borders just because it
+benefits everyone uh to achieve this
+technology as soon as possible.
+>> That's a very that is in one way an
+optimistic and one way a pessimistic way
+to look at it.
+>> I don't think it's optimistic. Well, I
+mean, if it were to be transcended, um,
+to transcend borders for the common good
+rather than longevity, and I'm glad you
+brought up the term transhumanism. And
+if anybody if if you're not familiar
+with that term, I encourage you, urge
+you to look it up because it is a a uh a
+a a trend amongst the elite like you
+like you brought up. Um, uh, it's
+actually outlined very well in those two
+books that I mentioned by Edwin Black.
+Uh now the interesting thing when I'm
+sitting here listening to you guys
+describe the technologies and the and
+the and the the power struggle
+there's the issue of someone else will
+just do it right and it's almost
+impossible if we don't do it someone
+else will do it if we don't do it some
+and it's this scale this ladder that
+that pushes people forward and forward
+and forward it's almost impossible to to
+to fight against unless everybody agrees
+on on um you know moratorans and that's
+it but there will always be somebody
+else that does it. That's a that's a
+that's a interesting forcing function.
+>> Sorry. So um I I I want to um emphasize
+this point which is that all
+technological progress today regardless
+of the field it relies on global
+cooperation
+>> because of global supply chains.
+>> Yes, good point.
+>> Right. For example, artificial
+intelligence,
+>> right?
+>> A great point. Great point. you you need
+to source silicon, gallium, geranium,
+copper, lithium comes from all around
+the world and different nations do
+specialization. So maybe lithium is
+something you mine in the lithium
+triangle but then it's uh turned into
+batteries in China um and then the
+technology turn this um into batteries
+comes from Europe or in Japan. So so
+that's what people don't appreciate.
+>> We have we are living in a technological
+world because of globalization.
+If globalization uh if global supply
+chains are disrupted then it is very
+hard to to progress and and that's
+something that that people need to keep
+in mind.
+>> That's that's very interesting. Now um
+with I think people should also
+appreciate yes the technology that
+you're describing um does require
+expertise
+and it requires uh uh lab equipment and
+technology but it is it is simpler than
+people realize. I think for example,
+just cloning genes. Uh uh I'm just
+thinking in terms of supply chain, it
+doesn't take much to do the sort of
+thing that you're describing in terms of
+reagents. I mean, when you're doing it
+in humans specifically, yes, it's more
+complicated than doing it in E.coli and
+doing it in yeast, but I'm not sure that
+the supply chain would have as much of
+an impact on what you're describing as
+robots or
+>> ships. [snorts] I don't know. I don't
+know. it it's just on the surface level
+your thoughts.
+>> Uh yeah, I actually thought about this a
+while back where I want to compare this
+to like the Manhattan project era.
+>> Yes.
+>> And I would say it has that scale of
+effect.
+>> Mhm.
+>> Whether good or bad in terms of the just
+the power of the technology.
+>> Yes.
+>> But unlike physics or kind of nuclear
+>> Mhm. weapons, um, atomic bombs, the game
+theory of biotech is just so different
+for biod defense. I mean,
+>> I think when you think so when you think
+about nuclear weapons, you need like a
+whole facility.
+>> When you fire a atomic bomb, you know
+exactly where it's coming from.
+>> I think with biotech, it's it's
+different because it's not completely
+destructive like nuclear weapons.
+>> Uh, like biode like not not really like
+therapeutics, right? like biodefense um
+it's not completely destructive in the
+way that atomic bombs are.
+>> Um it can also be it's a technology can
+also be used for good. So like it's not
+as severe as as the physics uh chapter
+of atomic bombs. Um you also don't know
+where it's coming from because nowadays
+people can have like a garage lab and
+build things with especially with AI.
+>> That's kind of what I was touching on.
+Exactly.
+>> Yeah. And so it actually is more
+dangerous from a from a game theory
+perspective than atomic bombs because
+you don't know where it's coming from.
+It has both creative and um like
+creation and destruction values like it
+it like you can do anything with it and
+more people can get access to it. You
+don't need a whole facility to build
+something like a like a nuclear um
+weapon like you just need a like lab.
+Not saying anyone should do it, but I'm
+just thinking like this is the reality
+of biotech in 2026 and and different
+people have different incentives and I
+think we have to just face the reality
+of it.
+>> Yes. Annie Jacobs. You guys know Annie
+Jacobson? Annie Jacobson. She just wrote
+a great book on exactly this topic.
+>> Oh yeah. She interviewed me in LA. Oh, I
+wonder if I'm going to
+>> Oh, I'm not completely through the book
+yet, so I haven't popped up yet, but
+maybe it pop up in the letter later
+chapters, but um outlining exactly what
+you're talking about. Yes, it's it's
+relatively straightforward and simple,
+but the implications are perhaps much
+greater than nuclear weapons, which is
+something that needs to be considered.
+How do you um sitting here listening to
+this because you're also um one might
+say an expert on game theory.
+>> Mhm.
+>> Game theory, biotech.
+Where's the where's the synergy there?
+What do you what do you what comes to
+mind?
+>> Yeah. So um
+again according to game theory uh
+biotechnology it is the future uh
+because there are many powerful
+interests will well I mean you can argue
+the most powerful interests who want to
+promote this technology and again uh the
+elite the the major issue that they're
+facing is how do I live forever?
+>> If you spend two minutes on Twitter or X
+half of what I see is about longevity
+living forever.
+>> That's right. Yeah. Yeah. Because like
+that's that's the only thing missing in
+their life. They have they have it all.
+They have money, power, fame. Um and for
+them it's like how do I maintain my um
+status? And so that um according to game
+theory um biotechnology really is the
+future. But I think Kathy is right in
+that we uh the consequences of
+biotechnology it is far more devastating
+than the atom bomb or artificial
+intelligence because in theory
+artificial intelligence you could always
+turn off that switch right like you know
+no electricity in which data center
+>> yeah in which case the entire system uh
+uh shuts down but once you put a new
+virus or a um new uh DNA sequence into
+nature
+then the um consequences uh we can never
+ever predict. Humans have have always
+been bad at predicting the consequence
+of new technologies.
+>> We we're just really bad at that.
+>> Um so um according to game theory uh
+biotech is the future um and its impact
+it will be tremendous.
+And if history is an example, the impact
+will be both negative and positive. Um
+and often uh going again according to
+game theory often what's going to happen
+is the distribution will be very unequal
+in that the elite will probably uh have
+the positive effects of biotechnology
+and everyone else will have to suffer
+the negative consequences of
+biotechnology and I wonder if this might
+precipitate ultimately the collapse of
+society.
+Very interesting. Very interesting. On a
+personal level, do you want to live
+forever?
+>> No.
+>> Why not?
+>> Because I have children and um having
+children has made me a very spiritual, a
+very religious person. I I see children
+as um gifts from God. And
+having children um my greatest gift to
+them would be for me to die and go away.
+>> Interesting. Interesting way to put it.
+What about you, Kathy?
+>> I also don't want to live forever. I
+think I think life is or the universe is
+something that like our souls are kind
+of recycled and we learn so much from
+dying and being rebirthed again. I I I
+that's just what I think um
+instinctually. Um and I think if we live
+forever in this realm of reality, it's
+just like not a real experience, which
+is how I feel.
+>> Um so I'm okay not living forever. But
+but we say this because we're not
+billionaires. I'm pretty sure that I'm
+billionaire. I would think differently.
+>> Yeah, you're right. And and I think a
+lot of your your your biotech friends
+would would would think you're crazy for
+saying that. I mean, it's a very, as we
+mentioned earlier, a very common trope
+right now to want to live forever. And I
+agree with you both, by the way. Um,
+what would your I'll start with you,
+professor. What would your advice to
+young students who are
+studying in this uh sector of of
+science, biotechnology, perhaps wanting
+to work on technologies like this that
+might impact the global, you know,
+millu this society and culture? What
+would your advice be to them getting
+into this in terms of long-term
+thinking?
+>> Join the military. M
+>> I mean if you think about it um if
+you're really interested in this
+technology and you really want to
+develop uh real applications the best
+place to do it would would probably be
+the military. uh you would have a lot of
+space you would have unlimited funding
+and you would have access to the uh best
+technology [snorts] and uh if you do a
+good job then in 10 20 years time uh you
+would then be able to come out of of the
+military and prioritize a lot of your
+research and that's how Israel works
+right
+>> interesting did not expect you to say
+that that is interesting perspective
+what about you Kathy young students who
+are interested in what you do what would
+your advice be to
+work on things that mitigate the
+technical risks of this technology like
+reverse gene drives, things like that.
+Think about the most consequential
+technologies and how to mitigate the
+risk of that would be my advice.
+>> What about um advice from the
+perspective of your you know your life
+path that you took very different than
+most people who are uh in biology and
+biotech they go all the way masters PhD
+and all you took a different path. What
+did you learn from that and would you
+recommend that to others?
+>> No, I do not recommend my life path to
+others. I think that what I did is
+extremely unique and it's not the right
+fit for most people. It's extremely
+difficult and uh it's it's just
+something that um only I think only a
+small subset of people can actually
+benefit from if they have a particular
+set of like personality traits. when I
+was starting out um I took a huge risk
+in becoming a teal felt like dropping
+out of school um and you know taking
+venture capital funding when I was 18
+years old and I went to San Francisco I
+I flew there alone um from University of
+Toronto and I it was extremely strange
+of an experience um I don't think
+everyone has the capacity in their
+mental models of the world to like take
+on that much um
+>> like differences is for example I was I
+remember after demo day of my like
+biotech incubator I received applicants
+from like Harvard postocs to work for me
+and a few months ago I had to like ask
+to you for permission to use the
+bathroom like it's extremely
+disorienting when you think about it
+challenges everything you've ever known
+like I was still in like uh in my
+courses I was supposed to take the exams
+and yet like it just didn't make any
+none of it made sense to me so you have
+to be able to take on an extremely
+different worldview and that's just not
+for everyone. You have to do it in a
+really short amount of time while
+performing under pressure. You have to,
+you know, create shareholder value. You
+have to sell products to to clients. You
+have to manage a team of people who are
+much older than you. It's extremely um
+challenging and lonely experience which
+I think a lot of founders can empathize
+with. It's something I continued
+choosing and um have become pretty good
+at, but it's just definitely not for
+everybody and I I just I don't recommend
+it.
+>> Sorry. Sorry. I also want to give
+another piece of advice which is like do
+not under any circumstances
+go to an a research university. Um there
+will there will be no major thinker
+emerging from our university system from
+now on. It it's a place where ideas go
+to die.
+>> Interesting. What is your advice to
+Kathy?
+>> Um well I think she's doing very well
+for for herself. Um but my best piece of
+advice would be um visit Israel more
+often.
+>> All right. Interesting. And any final
+thoughts? Um parting words in terms of
+uh I would say I I think we can we could
+summarize this conversation as uh we
+have to think ahead and we have to think
+of unintended consequences. We al also
+have to appreciate the technology that
+we have because it is extremely powerful
+and can be very helpful. But as we saw
+with nuclear power can be also very
+destructive. Uh parting words, what
+should our audience take away from this
+conversation?
+>> Yeah. Um so this is my first time
+learning and discussing about
+biotechnology. So thanks to Tim and
+Kathy for letting me and I think it's
+just like really really uh interesting.
+And so uh my best piece of advice for
+everyone is to keep on learning. um just
+don't stay in your bubble but like go
+into new areas that you may not know
+about. Um biote technology is definitely
+one of them.
+>> Mhm.
+>> Kathy parting words.
+>> Uh so while I don't recommend my life
+path, I do recommend thinking on your
+own, thinking for yourself, getting out
+of your bubble and learning about
+something different. Feeling it's okay
+to feel unqualified to go into a new
+especially technical field and just
+diving right into it. AI can help you
+learn things pretty fast at this point.
+can read papers and just read a few
+times and you'll you'll get it even if
+it's very technical. Um so just do as
+much learning. Don't be afraid of
+technical fields. Um just yeah continue
+thinking for yourself. I think that's
+the most important thing. Um yeah
+thinking for yourself and making friends
+with different types of people.
+>> Well said. Where can we learn more about
+origin genomics? Any social media?
+>> Uh you can follow me on X at Kathy Thai
+and Origin Genomics at origin genomics
+on X.
+>> Wonderful. and Professor Jang, where can
+we find your work?
+>> Um, I'm on YouTube and I'm on Substack.
+Uh, both are predictive predictive
+history.
+>> Fantastic. It was an absolute pleasure
+and honor to speak with both of you
+today. Thank you.
+>> Thank you.
+[music]
+Heat. Heat.
+[music]
+Heat.
+[music]
+[music] Heat.
+Heat.
+[music]
+Heat.
+>> [music]
+[music]
+>> Heat. Heat.
+[music]
+Heat. Heat. [music]
+[music]
+>> [music]
+[music]
+>> Heat. Heat. Heat.
+[music]
+>> [music]
+[music]
+>> Heat. [music] Heat.
+>> [music]
+'''
